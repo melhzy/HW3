@@ -53,3 +53,6 @@ C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\HW3_MultiLa
 C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\HW3_MultiLayersWithDummyData\obj\Debug\HW3_MultiLayersWithDummyData.csprojResolveAssemblyReference.cache
 C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\HW3_MultiLayersWithDummyData\obj\Debug\HW3_MultiLayersWithDummyData.dll
 C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\HW3_MultiLayersWithDummyData\obj\Debug\HW3_MultiLayersWithDummyData.pdb
+C:\Users\Hui\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\HW3_MultiLayersWithDummyData\obj\Debug\HW3_MultiLayersWithDummyData.csprojResolveAssemblyReference.cache
+C:\Users\Hui\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\HW3_MultiLayersWithDummyData\obj\Debug\HW3_MultiLayersWithDummyData.dll
+C:\Users\Hui\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\HW3_MultiLayersWithDummyData\obj\Debug\HW3_MultiLayersWithDummyData.pdb

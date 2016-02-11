@@ -1,0 +1,11 @@
+C:\Users\Hui\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\BusinessLayer\bin\Debug\GridMvc.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\BusinessLayer\bin\Debug\Models.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\BusinessLayer\bin\Debug\Models.pdb
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -21,7 +21,7 @@ namespace BusinessLayer
 
             if (dsGetDemographicsReport.Tables.Count > 0)
             { 
-                IndivDemoList = dsGetDemographicsReport.Table[0].AsEnumerable().Select(m => new DemographicInformation
+                IndivDemoList = dsGetDemographicsReport.Tables[0].AsEnumerable().Select(m => new IndivDemographics
                 {
                     FirstName = Convert.ToString(m["FirstName"]),
                     LastName = Convert.ToString(m["LastName"]),
@@ -29,6 +29,8 @@ namespace BusinessLayer
                     Address = Convert.ToString(m["Address"])
                 }).ToList();
             }
+
+            return IndivDemoList;
         }
     }
 }

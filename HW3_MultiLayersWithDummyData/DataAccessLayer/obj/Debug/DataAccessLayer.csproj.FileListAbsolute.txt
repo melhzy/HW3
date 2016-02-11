@@ -1,0 +1,7 @@
+C:\Users\Hui\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\DataAccessLayer\bin\Debug\GridMvc.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW3\HW3_MultiLayersWithDummyData\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

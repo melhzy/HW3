@@ -34,10 +34,9 @@ namespace HW3_MultiLayersWithDummyData.Controllers
         {
             ViewBag.Message = "Display Individual Information";
 
-            var IndivDemo = 
-                //Demographics.GetIndividualDemographicData();
+            var IndivDemo = DemoInformation.GetDemoData();
 
-            return View();
+            return View(IndivDemo);
         }
     }
 }
